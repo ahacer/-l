@@ -1,0 +1,35 @@
+<({
+varannex = b == 0
+    [<(n)If b<in> == 0';
+        write{('Can't divide by zero!')}
+    +; n\F-O = fonta = Open_Sans;
+        n\f+o = font(-a) = 300';+
+
+varannex = a == integ;
+    ! --b--/a = b; = RES
+        <!'SPECIFY!>"
+
+    -Calc:
+        integ[varannex = c == integ(1)]
+        -! a + c = a?c!!!!; = RES
+            PRINT c == RES == [<cm);
+
+    xx c(m) xx
+        m\f-o = greena;
+        m\f+o = rgb('38, 56, 56')(-a);
+
+    -BUTTON (Nan):
+        [<(f)
+        _____f\f-0 = BUTTONa: 1  2  3;   xj
+                   RAD;    ÷;  4  5  6;
+                              7  8  9;
+        -g-g-g-g-g-g-g--l-l-l-l-l-l-l: 1, 2, 3;
+            _glg + blc(-a) blu; RAD; ÷ ; 4, 5, 6; DEG;
+                glg + 0 = Clac/Math (-a) + ; 7, 8, 9  Sin; Tan; Cos;
+            _rang g a __ = ++ = += OBP   -;     [<g>(=);
+        cbcolor += rgb('0, 0, 255');+ 
+        : toPhase\=(10m; *55
+        : RAD/DEG;
+      
+      <[*55 is not an error, the syntax is weird]>
+})>
